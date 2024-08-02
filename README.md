@@ -1,3 +1,4 @@
 # Example repository
 
-This is a sample repo!!
+Hello, this is a sample repo!!
+
